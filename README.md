@@ -1,15 +1,23 @@
-<h1 align="center">Hi 👋, I'm Kiran Rathod</h1>
-<h3 align="center">Information Technology Student from India</h3>
+<h1 align="center">👋 Hi, I'm Kiran Rathod</h1>
+
+<h3 align="center">
+Information Technology Student | Web Development • Data Analytics • Java & DSA
+</h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+</p>
+
+<p align="center">
+🚀 Passionate Learner • 💡 Problem Solver • 🧠 Consistent Improver
+</p>
 
 ---
-
-### 👨‍💻 About Me
-- 🎓 Computer Engineering student
-- 💻 Interested in Web Development, Data Analytics & Cybersecurity
-- 🌱 Currently learning Java and Data Structures & Algorithms
-- 📊 Practicing data analysis using Python libraries
-- 🚀 Building projects to strengthen real-world problem-solving skills
-
 ---
 
 ## 🛠 Tech Stack
