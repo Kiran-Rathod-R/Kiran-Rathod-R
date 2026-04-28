@@ -42,12 +42,29 @@ Information Technology Student | Web Development • Data Analytics • Java & D
 ---
 
 ### 📂 Projects
-- ♻ EcoTrack – Waste management awareness and reporting platform(with help of AI)
-- 🛒 Smart Stationery Website – Responsive shopping interface
-- 📊 Python Data Analysis – Exploring datasets and visualizing insights
-- 🏪 Grocery Store Management System – Inventory & billing system
 
----
+🌱 EcoTrack – Smart Waste Management System (Ongoing)
+A full-stack platform for managing waste reporting and pickup
+Features: User login, scheduling pickups, reporting waste, dashboard
+Tech Stack: HTML, CSS, JavaScript, React, Node.js, MongoDB
+
+
+📊 HR Analytics Dashboard
+Built an interactive dashboard using Power BI
+Analyzed employee data to generate insights
+Improved decision-making visualization
+
+
+🌐 UltraEdit Landing Page Clone
+Created a responsive UI clone using HTML & CSS
+Focused on layout design and responsiveness
+
+
+📈 Currently Working On
+🔥 Data Structures & Algorithms (Java)
+🌐 Full Stack Development
+🚀 Improving project quality for placements
+
 
 ### 🎯 Current Goals
 - Strengthen programming fundamentals
