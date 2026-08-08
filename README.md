@@ -77,6 +77,26 @@ Focused on layout design and responsiveness
 ### 📈 GitHub Activity
 I regularly upload projects and practice code as I continue learning and improving my development skills.
 
+## 🚀 GitHub Activity
+
+<div align="center">
+
+### 🔥 Contribution Streak
+
+<img src="https://streak-stats.demolab.com?user=Kiran-Rathod-R&hide_border=true" />
+
+<br><br>
+
+### 📅 Daily Contributions
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kiran-Rathod-R&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true&custom_title=Daily%20Contribution%20Activity" width="100%"/>
+
+<br>
+
+
+</div>
+
+
 ---
 
 ⭐ Thank you for visiting my profile!
